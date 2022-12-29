@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kemono/static/css/main.2cf03464.css",
-    "main.js": "/kemono/static/js/main.97382d28.js",
+    "main.js": "/kemono/static/js/main.0778589f.js",
     "static/js/787.7a6e60df.chunk.js": "/kemono/static/js/787.7a6e60df.chunk.js",
     "index.html": "/kemono/index.html",
     "main.2cf03464.css.map": "/kemono/static/css/main.2cf03464.css.map",
-    "main.97382d28.js.map": "/kemono/static/js/main.97382d28.js.map",
+    "main.0778589f.js.map": "/kemono/static/js/main.0778589f.js.map",
     "787.7a6e60df.chunk.js.map": "/kemono/static/js/787.7a6e60df.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2cf03464.css",
-    "static/js/main.97382d28.js"
+    "static/js/main.0778589f.js"
   ]
 }
